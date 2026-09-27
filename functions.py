@@ -10,3 +10,4 @@ def input_number(num1):
 
 input1 = input_number(2)
 print(input1)
+
